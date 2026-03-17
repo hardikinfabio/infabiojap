@@ -311,11 +311,10 @@ const App = () => {
             <span className="text-[11px] font-black text-zinc-400 uppercase tracking-[0.4em] whitespace-nowrap text-center lg:text-left">Integrated with elite stacks</span>
             <div className="flex flex-wrap gap-10 md:gap-14 items-center justify-center lg:justify-end flex-1">
               {[
-                "https://www.rockman.in/wp-content/uploads/2019/06/logo.png",
-                "https://www.oxxy.in/image/oxxy_logo.png",
-                "https://riagupta.com/wp-content/uploads/2025/04/wishtune-logo.png",
-                "https://beta.ananthamprojects.com/assets/transparentlogowhite-BoxRJ4id.png",
-                "https://content.app-sources.com/s/432484035579470251/uploads/Caliber/cropped-Calibar-Tech-Logo-8560830.png?format=webp"
+                "https://afiway.com/assets/images/logo/Dark.png",
+                "https://sushmitajha.com/wp-content/uploads/2025/06/cropped-LOGO-1.png",
+                "https://anantamias.com/wp-content/uploads/2025/07/logo-anantam-ias.webp",
+                "https://diy-assets.classplus.co/_next/image?url=https://cdn-diy-public.classplus.co/prod/ChatGPTImageNov302025094847PM_1764519536575.png&w=1920&q=75"
               ].map((logo, i) => (
                 <img
                   key={i}
