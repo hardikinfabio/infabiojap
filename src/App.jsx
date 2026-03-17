@@ -312,7 +312,7 @@ const App = () => {
             <div className="flex flex-wrap gap-10 md:gap-14 items-center justify-center lg:justify-end flex-1">
               {[
                 "https://afiway.com/assets/images/logo/Dark.png",
-                "https://sushmitajha.com/wp-content/uploads/2025/06/cropped-LOGO-1.png",
+                "https://content.app-sources.com/s/432484035579470251/uploads/sushmita_ji/cropped-LOGO-1-3293830.png?format=webp",
                 "https://anantamias.com/wp-content/uploads/2025/07/logo-anantam-ias.webp",
                 "https://diy-assets.classplus.co/_next/image?url=https://cdn-diy-public.classplus.co/prod/ChatGPTImageNov302025094847PM_1764519536575.png&w=1920&q=75"
               ].map((logo, i) => (
